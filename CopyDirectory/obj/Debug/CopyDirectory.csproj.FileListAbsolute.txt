@@ -1,0 +1,10 @@
+C:\Users\bg_gr\source\repos\CopyDirectory\CopyDirectory\bin\Debug\CopyDirectory.exe.config
+C:\Users\bg_gr\source\repos\CopyDirectory\CopyDirectory\bin\Debug\CopyDirectory.exe
+C:\Users\bg_gr\source\repos\CopyDirectory\CopyDirectory\bin\Debug\CopyDirectory.pdb
+C:\Users\bg_gr\source\repos\CopyDirectory\CopyDirectory\obj\Debug\CopyDirectory.Form1.resources
+C:\Users\bg_gr\source\repos\CopyDirectory\CopyDirectory\obj\Debug\CopyDirectory.Properties.Resources.resources
+C:\Users\bg_gr\source\repos\CopyDirectory\CopyDirectory\obj\Debug\CopyDirectory.csproj.GenerateResource.cache
+C:\Users\bg_gr\source\repos\CopyDirectory\CopyDirectory\obj\Debug\CopyDirectory.csproj.CoreCompileInputs.cache
+C:\Users\bg_gr\source\repos\CopyDirectory\CopyDirectory\obj\Debug\CopyDirectory.exe
+C:\Users\bg_gr\source\repos\CopyDirectory\CopyDirectory\obj\Debug\CopyDirectory.pdb
+C:\Users\bg_gr\source\repos\CopyDirectory\CopyDirectory\obj\Debug\CopyDirectory.csprojAssemblyReference.cache
